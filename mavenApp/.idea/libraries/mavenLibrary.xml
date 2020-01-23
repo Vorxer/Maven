@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mavenLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mavenLibrary/out/artifacts/mavenLibrary_jar/mavenLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mavenLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mavenLibrary_jar</output-path>
+    <root id="archive" name="mavenLibrary.jar">
+      <element id="module-output" name="mavenLibrary" />
+    </root>
+  </artifact>
+</component>
